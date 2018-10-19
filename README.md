@@ -1,0 +1,2 @@
+# PythonTraining
+Pytthon練習
